@@ -1,3 +1,3 @@
-# Simple-applications
+# Applications
 
-This repository holds some simple applications
+This repository holds some applications
