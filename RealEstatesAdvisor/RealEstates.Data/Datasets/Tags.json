@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "скъп имот",
+    "Importance": 1
+  },
+  {
+    "Name": "евтин имот",
+    "Importance": 1
+  },
+  {
+    "Name": "ново строителство",
+    "Importance": 3
+  },
+  {
+    "Name": "старо строителство",
+    "Importance": 3
+  },
+  {
+    "Name": "голям имот",
+    "Importance": 4
+  },
+  {
+    "Name": "малък имот",
+    "Importance": 4
+  },
+  {
+    "Name": "първи етаж",
+    "Importance": 2
+  },
+  {
+    "Name": "последен етаж",
+    "Importance": 2
+  }
+]
